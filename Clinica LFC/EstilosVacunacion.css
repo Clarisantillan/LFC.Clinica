@@ -54,6 +54,13 @@ nav a{
 nav a:hover{
     color: #0c2b36;
 } 
+.fetch{
+    background-color: #5FA49E;
+    color: #0c2b36;
+}
+.fetch > ul{
+    display: block;
+}
 
 /*Cuerpo de la pagina*/
 .parrafo{
